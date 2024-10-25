@@ -1,9 +1,11 @@
 export const config = {
-  apiKey: 'AIzaSyAjJG6UrfA1FEzV8qbjmuk8wiUic0uWv-8',
-  authDomain: 'finapp-17474.firebaseapp.com',
-  databaseURL: 'https://finapp-17474.firebaseio.com',
-  projectId: 'finapp-17474',
-  storageBucket: 'finapp-17474.appspot.com',
-  messagingSenderId: '1057184379213',
-  appId: '1:1057184379213:web:8c728d0b7099f194',
+  apiKey: 'AIzaSyDp9E21NSVDDCN4jr-Vnm5pBlH_3-P3EVY',
+  authDomain: 'finapp-pilarsen.firebaseapp.com',
+  databaseURL:
+    'https://finapp-pilarsen-default-rtdb.europe-west1.firebasedatabase.app',
+  projectId: 'finapp-pilarsen',
+  storageBucket: 'finapp-pilarsen.appspot.com',
+  messagingSenderId: '50250299706',
+  appId: '1:50250299706:web:5b86d6584cffef1165b803',
+  measurementId: 'G-DWB24FLX3P',
 }
