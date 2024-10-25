@@ -13,7 +13,7 @@
 .output
 .yarn
 coverage
-dist
+#dist
 ftp.config.js
 node_modules
 npm-debug.log*

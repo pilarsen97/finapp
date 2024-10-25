@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[108],{1123:function(t,l,n){"use strict";n.r(l);var e=n(6),component=Object(e.a)({},(function(){return(0,this._self._c)("WalletsPageIdEdit")}),[],!1,null,null,null);l.default=component.exports;installComponents(component,{WalletsPageIdEdit:n(1078).default})}}]);
