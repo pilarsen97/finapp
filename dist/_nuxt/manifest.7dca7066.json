@@ -1,7 +1,6 @@
 {
   "name": "Finapp",
   "short_name": "Finapp",
-  "description": "Finapp helps you to control personal finances easily and efficiently.",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.b1539b.png",

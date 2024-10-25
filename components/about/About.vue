@@ -8,8 +8,8 @@ div
       .name ilkome
 
     div
-      .subTitle.pb-4 {{ $t('thanks') }}
-      .name TheCarolissy, TihomirovPro
+      .subTitle.pb-4 {{ $t('hosted') }}
+      .name Pilarsen
 </template>
 
 <style lang="stylus" scoped>

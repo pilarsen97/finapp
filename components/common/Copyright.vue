@@ -1,6 +1,6 @@
 <template lang="pug">
 a.flex-center.py-2.px-5.rounded-md.hocus_bg-item-hover.transition(
-  href="https://ilko.me"
+  href="https://piloyan.ru"
 )
   | {{ $t('madeBy.text') }}
   .mdi.mdi-heart(
@@ -32,10 +32,10 @@ a.flex-center.py-2.px-5.rounded-md.hocus_bg-item-hover.transition(
 <i18n lang="yaml">
 en:
   madeBy:
-    text: Made with
-    name: by Ilya Komichev
+    text: piloyan.ru
+    name: Арсен Пилоян
 ru:
   madeBy:
-    text: Разработал
-    name: Илья Комичев
+    text: piloyan.ru
+    name: Арсен Пилоян
   </i18n>
